@@ -17,7 +17,7 @@ const Banner = () => {
         <Image
           src="/images/image_16.jpg"
           alt=""
-          className="object-cover md:object-right-bottom md:block hidden object-center pointer-events-none z-10"
+          className="object-cover md:block hidden object-center pointer-events-none z-10"
           fill
           priority
         />

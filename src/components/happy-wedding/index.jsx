@@ -71,9 +71,9 @@ const HappyWedding = () => {
             </div>
             <div className="flex flex-col gap-1 mt-2">
               <h3 className="text-lg md:text-xl font-bold uppercase">
-                Đinh Xuân Nam
+                Hoàng Vương Nam
               </h3>
-              <p className="text-xl">0274 5836 401</p>
+              <p className="text-xl">0360 3666 666</p>
               <p className="opacity-80">Chú rể</p>
             </div>
           </div>

@@ -144,7 +144,7 @@ const Brides = () => {
       <div className="mt-10 text-white">
         <div className="container hero relative m-auto">
           <Image
-            src="/images/bg-4.webp"
+            src="/images/bg_1.jpg"
             alt=""
             className="object-cover object-center pointer-events-none z-1 rounded-lg opacity-90"
             fill

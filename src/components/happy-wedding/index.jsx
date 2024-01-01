@@ -46,7 +46,7 @@ const HappyWedding = () => {
               <p className="opacity-80">Cô dâu</p>
             </div>
           </div>
-          <div className="px-16 lg:px-28 py-20 lg:py-40 bg-[#83886A] text-white flex flex-col justify-center">
+          <div className="px-16 lg:px-28 py-20 lg:py-40 bg-[#3E824F] text-white flex flex-col justify-center">
             <div>
               <Image
                 src="/images/vpbank_logo.png"

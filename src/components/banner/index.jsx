@@ -17,14 +17,14 @@ const Banner = () => {
         <Image
           src="/images/image_16.jpg"
           alt=""
-          className="object-cover md:block hidden object-center pointer-events-none z-10 opacity-80"
+          className="object-cover md:block hidden object-center pointer-events-none z-10 opacity-90"
           fill
           priority
         />
         <Image
           src="/images/image_22.jpg"
           alt=""
-          className="object-cover object-center block md:hidden pointer-events-none z-10 opacity-80"
+          className="object-cover object-center block md:hidden pointer-events-none z-10 opacity-90"
           fill
           priority
         />

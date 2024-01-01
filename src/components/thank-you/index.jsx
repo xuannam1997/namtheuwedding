@@ -7,7 +7,7 @@ const ThankYou = () => {
       <Image
         src="/images/thank_you_1.jpg"
         alt=""
-        className="object-cover object-bottom pointer-events-none z-10"
+        className="object-cover pointer-events-none z-10"
         fill
         priority
       />

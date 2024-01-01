@@ -36,7 +36,7 @@ const Banner = () => {
               </h2>
             </div>
             <p className="font_sacramento text-white text-4xl md:text-[80px] flex items-center gap-2 md:gap-3 mt-10">
-              Nam
+              Hoàng Nam
               <svg
                 xmlns="http://www.w3.org/2000/svg"
                 viewBox="0 0 30.22 30.01"
@@ -53,7 +53,7 @@ const Banner = () => {
                   </g>
                 </g>
               </svg>
-              Thêu
+              Xuân Thêu
             </p>
             <div className="count-down-clock">
               <div id="clock">

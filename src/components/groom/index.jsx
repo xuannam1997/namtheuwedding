@@ -9,7 +9,7 @@ const Groom = () => {
   return (
     <section
       data-scroll-index="3"
-      className="py-10 md:py-20 scroll-mt-20"
+      className="pt-10 md:pt-20 scroll-mt-20"
       id="groom"
     >
       <div className="container mx-auto">
@@ -328,7 +328,7 @@ const Groom = () => {
                 <a
                   className="hero relative rounded-lg min-h-[100px] w-full md:max-w-[200px] cursor-pointer text-white"
                   target="_blank"
-                  href="https://maps.app.goo.gl/6MM3MV6RifQnoyrw6"
+                  href="https://maps.app.goo.gl/geFr51JudiUKFkmW9"
                 >
                   <Image
                     src="/images/nam_map.png"

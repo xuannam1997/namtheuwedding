@@ -17,7 +17,7 @@ const AlbumImage = () => {
     <>
       <section
         data-scroll-index="1"
-        className="py-10 md:py-20 mt-5 scroll-mt-20"
+        className="pt-10 md:pt-20 scroll-mt-20"
         id="album"
       >
         <div className="container mx-auto">
@@ -341,6 +341,86 @@ const AlbumImage = () => {
                   loading="lazy"
                 />
               </div>
+              <div className="mt-6">
+                <Image
+                  src="/images/image_23.jpg"
+                  alt=""
+                  className="h-auto w-full rounded-lg"
+                  width={500}
+                  height={500}
+                  loading="lazy"
+                />
+              </div>
+              <div className="mt-6">
+                <Image
+                  src="/images/image_24.jpg"
+                  alt=""
+                  className="h-auto w-full rounded-lg"
+                  width={500}
+                  height={500}
+                  loading="lazy"
+                />
+              </div>
+              <div className="mt-6">
+                <Image
+                  src="/images/image_25.jpg"
+                  alt=""
+                  className="h-auto w-full rounded-lg"
+                  width={500}
+                  height={500}
+                  loading="lazy"
+                />
+              </div>
+              <div className="mt-6">
+                <Image
+                  src="/images/image_26.jpg"
+                  alt=""
+                  className="h-auto w-full rounded-lg"
+                  width={500}
+                  height={500}
+                  loading="lazy"
+                />
+              </div>
+              <div className="mt-6">
+                <Image
+                  src="/images/image_27.jpg"
+                  alt=""
+                  className="h-auto w-full rounded-lg"
+                  width={500}
+                  height={500}
+                  loading="lazy"
+                />
+              </div>
+              <div className="mt-6">
+                <Image
+                  src="/images/image_28.jpg"
+                  alt=""
+                  className="h-auto w-full rounded-lg"
+                  width={500}
+                  height={500}
+                  loading="lazy"
+                />
+              </div>
+              <div className="mt-6">
+                <Image
+                  src="/images/image_29.jpg"
+                  alt=""
+                  className="h-auto w-full rounded-lg"
+                  width={500}
+                  height={500}
+                  loading="lazy"
+                />
+              </div>
+              <div className="mt-6">
+                <Image
+                  src="/images/image_30.jpg"
+                  alt=""
+                  className="h-auto w-full rounded-lg"
+                  width={500}
+                  height={500}
+                  loading="lazy"
+                />
+              </div>
             </div>
             <div className="w-full relative md:hidden sm:block min-h-[400px]">
               <div className="stack">
@@ -550,6 +630,156 @@ const AlbumImage = () => {
                   src="/images/image_14.jpg"
                   alt=""
                   className="h-auto w-full rounded-lg text-transparent"
+                  width={500}
+                  height={500}
+                  loading="lazy"
+                />
+              </div>
+              <div className="mt-6">
+                <Image
+                  src="/images/image_15.jpg"
+                  alt=""
+                  className="h-auto w-full rounded-lg"
+                  width={500}
+                  height={500}
+                  loading="lazy"
+                />
+              </div>
+              <div className="mt-6">
+                <Image
+                  src="/images/image_16.jpg"
+                  alt=""
+                  className="h-auto w-full rounded-lg"
+                  width={500}
+                  height={500}
+                  loading="lazy"
+                />
+              </div>
+              <div className="mt-6">
+                <Image
+                  src="/images/image_17.jpg"
+                  alt=""
+                  className="h-auto w-full rounded-lg"
+                  width={500}
+                  height={500}
+                  loading="lazy"
+                />
+              </div>
+              <div className="mt-6">
+                <Image
+                  src="/images/image_18.jpg"
+                  alt=""
+                  className="h-auto w-full rounded-lg"
+                  width={500}
+                  height={500}
+                  loading="lazy"
+                />
+              </div>
+              <div className="mt-6">
+                <Image
+                  src="/images/image_20.jpg"
+                  alt=""
+                  className="h-auto w-full rounded-lg"
+                  width={500}
+                  height={500}
+                  loading="lazy"
+                />
+              </div>
+              <div className="mt-6">
+                <Image
+                  src="/images/image_21.jpg"
+                  alt=""
+                  className="h-auto w-full rounded-lg"
+                  width={500}
+                  height={500}
+                  loading="lazy"
+                />
+              </div>
+              <div className="mt-6">
+                <Image
+                  src="/images/image_22.jpg"
+                  alt=""
+                  className="h-auto w-full rounded-lg"
+                  width={500}
+                  height={500}
+                  loading="lazy"
+                />
+              </div>
+              <div className="mt-6">
+                <Image
+                  src="/images/image_23.jpg"
+                  alt=""
+                  className="h-auto w-full rounded-lg"
+                  width={500}
+                  height={500}
+                  loading="lazy"
+                />
+              </div>
+              <div className="mt-6">
+                <Image
+                  src="/images/image_24.jpg"
+                  alt=""
+                  className="h-auto w-full rounded-lg"
+                  width={500}
+                  height={500}
+                  loading="lazy"
+                />
+              </div>
+              <div className="mt-6">
+                <Image
+                  src="/images/image_25.jpg"
+                  alt=""
+                  className="h-auto w-full rounded-lg"
+                  width={500}
+                  height={500}
+                  loading="lazy"
+                />
+              </div>
+              <div className="mt-6">
+                <Image
+                  src="/images/image_26.jpg"
+                  alt=""
+                  className="h-auto w-full rounded-lg"
+                  width={500}
+                  height={500}
+                  loading="lazy"
+                />
+              </div>
+              <div className="mt-6">
+                <Image
+                  src="/images/image_27.jpg"
+                  alt=""
+                  className="h-auto w-full rounded-lg"
+                  width={500}
+                  height={500}
+                  loading="lazy"
+                />
+              </div>
+              <div className="mt-6">
+                <Image
+                  src="/images/image_28.jpg"
+                  alt=""
+                  className="h-auto w-full rounded-lg"
+                  width={500}
+                  height={500}
+                  loading="lazy"
+                />
+              </div>
+              <div className="mt-6">
+                <Image
+                  src="/images/image_29.jpg"
+                  alt=""
+                  className="h-auto w-full rounded-lg"
+                  width={500}
+                  height={500}
+                  loading="lazy"
+                />
+              </div>
+              <div className="mt-6">
+                <Image
+                  src="/images/image_30.jpg"
+                  alt=""
+                  className="h-auto w-full rounded-lg"
                   width={500}
                   height={500}
                   loading="lazy"

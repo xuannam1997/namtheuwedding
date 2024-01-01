@@ -77,7 +77,7 @@ const SendGreetings = () => {
   return (
     <section
       data-scroll-index="4"
-      className="mt-5 pt-10 md:pt-20 scroll-mt-20"
+      className="pt-10 md:pt-20 scroll-mt-20"
       id="message"
     >
       <div className="container m-auto flex flex-col lg:grid lg:grid-cols-[1fr_1fr] md:gap-10 gap-0 items-center">

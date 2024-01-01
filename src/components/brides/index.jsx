@@ -9,7 +9,7 @@ const Brides = () => {
   return (
     <section
       data-scroll-index="2"
-      className="py-10 md:py-20 scroll-mt-20"
+      className="pt-10 md:pt-20 scroll-mt-20"
       id="bride"
     >
       <div className="container mx-auto">

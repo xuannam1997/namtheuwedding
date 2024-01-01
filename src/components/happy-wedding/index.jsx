@@ -4,7 +4,7 @@ const HappyWedding = () => {
   return (
     <section
       data-scroll-index="5"
-      className="mt-5 pt-10 md:pt-20 scroll-mt-20"
+      className="pt-10 md:pt-20 scroll-mt-20"
       id="bank-info"
     >
       <div className="container m-auto">
@@ -20,7 +20,7 @@ const HappyWedding = () => {
               <Image
                 src="/images/vpbank_logo.png"
                 alt=""
-                className="h-[50px] w-auto grayscale opacity-50"
+                className="h-[50px] w-auto opacity-40"
                 width={200}
                 height={200}
                 loading="lazy"
@@ -51,7 +51,7 @@ const HappyWedding = () => {
               <Image
                 src="/images/vpbank_logo.png"
                 alt=""
-                className="h-[50px] w-auto grayscale opacity-50"
+                className="h-[50px] w-auto opacity-40"
                 width={200}
                 height={200}
                 loading="lazy"

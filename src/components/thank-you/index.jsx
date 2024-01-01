@@ -5,7 +5,7 @@ const ThankYou = () => {
     <section className="hero scroll-mt-20 mt-20 bg-cover bg-center md:min-h-[500px] w-full relative">
       <div className="hero-overlay bg-white/10 z-20"></div>
       <Image
-        src="/images/thank_you_1.jpg"
+        src="/images/thank_you.jpg"
         alt=""
         className="object-cover pointer-events-none z-10"
         fill
